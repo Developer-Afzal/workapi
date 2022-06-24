@@ -6,6 +6,5 @@
 { "id":4,"title":"Casual Regular Sleeves Women Top", "Price":600, "image":"https://developer-afzal.github.io/workapi/images/womens/5.jpg", "rating":4.5, "Size":"S,M,L,XL"},
 { "id":5,"title":"Women Kurta and Palazzo Set", "Price":600, "image":"https://developer-afzal.github.io/workapi/images/womens/6.jpg", "rating":4.5, "Size":"S,M,L,XL"},
 { "id":6,"title":"Women Cotton Printed Dark Blue Dress", "Price":600, "image":"https://developer-afzal.github.io/workapi/images/womens/7.jpg", "rating":4.5, "Size":"S,M,L,XL,XXL"},
-{ "id":7,"title":"Women Kurta and Palazzo Set", "Price":600, "image":"https://developer-afzal.github.io/workapi/images/womens/8.jpg", "rating":4.5, "Size":"S,M,L,XL"},
-{ "id":8,"title":"Women Solid Cotton Kurti with Pant Set", "Price":600, "image":"https://developer-afzal.github.io/workapi/images/womens/9.jpg", "rating":4.5, "Size":"S,M,L,XL,XXL"}
+{ "id":7,"title":"Women Kurta and Palazzo Set", "Price":600, "image":"https://developer-afzal.github.io/workapi/images/womens/8.jpg", "rating":4.5, "Size":"S,M,L,XL"}
 ]
