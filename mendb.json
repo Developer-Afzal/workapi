@@ -18,9 +18,5 @@
 { "id":16,"title":"Full Sleeve Solid Casual Jacket for Men", "Price":900, "image":"https://developer-afzal.github.io/workapi/images/mens/17.jpg","rating":4.5,"Size":"S,M,L,XL"},
 { "id":17,"title":"Full Sleeve In Solid Color Casual Jacket for Men", "Price":950, "image":"https://developer-afzal.github.io/workapi/images/mens/18.jpg","rating":3.5,"Size":"S,M,L,XL"},
 { "id":18,"title":"Regular Slim Blue Jeans for Men", "Price":1000, "image":"https://developer-afzal.github.io/workapi/images/mens/19.jpg","rating":4.5,"Size":"28,30,32,34,36"},
-{ "id":19,"title":"Regular Fit Men Gray Cotton Trousers for Men", "Price":1000, "image":"https://developer-afzal.github.io/workapi/images/mens/20.jpg","rating":4.5,"Size":"28,30,32,34,36"},
-{ "id":20,"title":"Regular Slim Light Blue Jeans for Men", "Price":1000, "image":"https://developer-afzal.github.io/workapi/images/mens/21.jpg","rating":4.5,"Size":"28,30,32,34,36"},
-{ "id":21,"title":"Formal Fit Men Black Cotton Trousers for Men", "Price":1000, "image":"https://developer-afzal.github.io/workapi/images/mens/22.jpg","rating":4.5,"Size":"28,30,32,34,36"},
-{ "id":22,"title":"Checkered Single Breasted Formal Blazer (Grey) for Men", "Price":4000, "image":"https://developer-afzal.github.io/workapi/images/mens/23.jpg","rating":4.5,"Size":"38,40"}
-
+{ "id":19,"title":"Regular Fit Men Gray Cotton Trousers for Men", "Price":1000, "image":"https://developer-afzal.github.io/workapi/images/mens/20.jpg","rating":4.5,"Size":"28,30,32,34,36"}
 ]
