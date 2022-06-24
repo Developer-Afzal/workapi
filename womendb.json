@@ -1,0 +1,11 @@
+[
+{ "id":0,"title":"Women Solid Maroon Dress", "Price":450, "image":"https//github/1.jpg", "rating":4.5, "Size":"S,M,L,XL"},
+{ "id":1,"title":"Casual Regular Sleeves Women Top", "Price":350, "image":"https//github/1.jpg", "rating":4.5, "Size":"S,M,L,XL"},
+{ "id":2,"title":"Women Solid Cotton Yelllow Kurti with Pant Set ", "Price":600, "image":"https//github/1.jpg", "rating":4.5, "Size":"S,M,L,XL,XXL"},
+{ "id":3,"title":"Women Cotton Embroidered Semi-Stitched Dress", "Price":600, "image":"https//github/1.jpg", "rating":4.5, "Size":"S,M,L,XL,XXL"},
+{ "id":4,"title":"Casual Regular Sleeves Women Top", "Price":600, "image":"https//github/1.jpg", "rating":4.5, "Size":"S,M,L,XL"},
+{ "id":5,"title":"Women Kurta and Palazzo Set", "Price":600, "image":"https//github/1.jpg", "rating":4.5, "Size":"S,M,L,XL"},
+{ "id":6,"title":"Women Cotton Printed Dark Blue Dress", "Price":600, "image":"https//github/1.jpg", "rating":4.5, "Size":"S,M,L,XL,XXL"},
+{ "id":7,"title":"Women Kurta and Palazzo Set", "Price":600, "image":"https//github/1.jpg", "rating":4.5, "Size":"S,M,L,XL"},
+{ "id":8,"title":"Women Solid Cotton Kurti with Pant Set", "Price":600, "image":"https//github/1.jpg", "rating":4.5, "Size":"S,M,L,XL,XXL"}
+]
