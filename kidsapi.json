@@ -1,0 +1,6 @@
+[
+{ "id":0,"title":"Printed Round Neck Boys Cotton T Shirt", "Price":200, "image":"https://developer-afzal.github.io/workapi/images/kids/1.jpg", "rating":3.5, "Size":"5-10 Years"},
+{ "id":1,"title":"Boys Slim Blue Jeans", "Price":300, "image":"https://developer-afzal.github.io/workapi/images/kids/2.jpg", "rating":3.5, "Size":"5-10 Years"},
+{ "id":2,"title":"Printed Round Neck Boys Cotton T Shirt", "Price":200, "image":"https://developer-afzal.github.io/workapi/images/kids/3.jpg", "rating":3.5, "Size":"5-10 Years"},
+{ "id":3,"title":"Boys Slim Blue Dark Jeans", "Price":300, "image":"https://developer-afzal.github.io/workapi/images/kids/4.jpg", "rating":3.5, "Size":"5-10 Years"}
+]
