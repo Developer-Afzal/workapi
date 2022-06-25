@@ -1,6 +1,4 @@
-[
-{ "id":0,"title":"Women Solid Maroon Dress", "Price":450, "image":"https://developer-afzal.github.io/workapi/images/womens/1.jpg", "rating":4.5, "Size":"S,M,L,XL"},
-{ "id":1,"title":"Casual Regular Sleeves Women Top", "Price":350, "image":"https://developer-afzal.github.io/workapi/images/womens/2.jpg", "rating":4.5, "Size":"S,M,L,XL"},
-{ "id":2,"title":"Casual Regular Sleeves Women Top", "Price":600, "image":"https://developer-afzal.github.io/workapi/images/womens/5.jpg", "rating":4.5, "Size":"S,M,L,XL"},
-{ "id":3,"title":"Women Kurta and Palazzo Set", "Price":600, "image":"https://developer-afzal.github.io/workapi/images/womens/6.jpg", "rating":4.5, "Size":"S,M,L,XL"},
-]
+[{"id":0,"title":"Women Solid Maroon Dress", "Price":450, "image":"https://developer-afzal.github.io/workapi/images/womens/1.jpg", "rating":4.5, "Size":"S,M,L,XL"},
+{"id":1,"title":"Casual Regular Sleeves Women Top", "Price":350, "image":"https://developer-afzal.github.io/workapi/images/womens/2.jpg", "rating":4.5, "Size":"S,M,L,XL"},
+{"id":2,"title":"Casual Regular Sleeves Women Top", "Price":600, "image":"https://developer-afzal.github.io/workapi/images/womens/5.jpg", "rating":4.5, "Size":"S,M,L,XL"},
+{"id":3,"title":"Women Kurta and Palazzo Set", "Price":600, "image":"https://developer-afzal.github.io/workapi/images/womens/6.jpg", "rating":4.5, "Size":"S,M,L,XL"},]
